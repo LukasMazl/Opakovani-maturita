@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"cz.spsmb.database","l":"Application"},{"p":"cz.spsmb.database","l":"Log"}];updateSearchResults();

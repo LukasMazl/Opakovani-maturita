@@ -1,0 +1,20 @@
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/lukas/IdeaProjects/Opakovani-maturita/Database/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/lukas/IdeaProjects/Opakovani-maturita/Database/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Database-example 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Database-example 1.0-SNAPSHOT API'
